@@ -7,6 +7,7 @@ const htmlToText = require("html-to-text");
 const promisify = require("es6-promisify");
 
 const transport = nodemailer.createTransport({
+  service: "SendGrid",
   host: process.env.MAIL_HOST,
   port: process.env.MAIL_PORT,
   auth: {

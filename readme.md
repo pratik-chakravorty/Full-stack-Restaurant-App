@@ -4,3 +4,4 @@ This application was made using Nodejs, Express, MongoDB and some other node pac
 It is a full-stack application that does the usual CRUD operations, handles ajax requests
 and also makes use of the Google Maps API to show some nice map data.
 Special thanks to Wes Bos for the amazing tutorial. Probably the best tutorial on learning Node.
+You can try the application here- https://pratiks-restaurant-app-agxsdnxkag.now.sh/
